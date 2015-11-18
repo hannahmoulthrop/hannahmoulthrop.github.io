@@ -92,3 +92,6 @@ li:hover {
     display: inline-block;
     margin-left: 5%;
 }
+element.style {
+    margin-bottom: 60px;
+}
