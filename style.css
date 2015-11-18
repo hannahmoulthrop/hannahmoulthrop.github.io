@@ -85,3 +85,10 @@ body {
 li:hover {
     color: green;
 }
+
+.resfill {
+    text-align: left;
+    width: 65%;
+    display: inline-block;
+    margin-left: 5%;
+}
