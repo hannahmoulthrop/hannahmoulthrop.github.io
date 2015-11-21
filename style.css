@@ -95,3 +95,16 @@ li:hover {
 element.style {
     margin-bottom: 60px;
 }
+
+element.style {
+}
+.name {
+    position: fixed;
+    right: 0;
+    top: 0;
+    left: 0;
+    padding: 10px;
+    text-align: center;
+    z-index: 99;
+    background-color: #ffffff;
+}
