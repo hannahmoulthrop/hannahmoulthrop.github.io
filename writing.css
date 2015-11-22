@@ -7,6 +7,14 @@ Style Attribute {
     text-align: left;
 }
 #wsite-title {
-    font-family: "Inconsolata" !important;
-    font-size: 50px !important;
+    font-family: Copperplate; sans-serif;
+    font-size: 60px;
 }
+
+div {
+  text-align: center;
+}
+
+h1 { font-size: 60px;
+font-family: Copperplate; sans-serif;
+font-weight: normal;}
