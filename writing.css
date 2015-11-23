@@ -1,12 +1,9 @@
 element.style {
 }
 
-Style Attribute {
-    text-align:left;
-}
 #wsite-title {
     font-family:Copperplate; sans-serif;
-    font-size:60px;
+    font-size:60px;}
 
 div {
   text-align:center;
