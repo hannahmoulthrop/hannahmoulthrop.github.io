@@ -1,20 +1,28 @@
 element.style {
 }
 strong, b {
-    font-weight: bold;
+    font-weight:bold;
 }
 Style Attribute {
-    text-align: left;
+    text-align:left;
 }
 #wsite-title {
-    font-family: Copperplate; sans-serif;
-    font-size: 60px;
+    font-family:Copperplate; sans-serif;
+    font-size:60px;
 }
 
 div {
-  text-align: center;
+  text-align:center;
 }
 
-h1 { font-size: 60px;
-font-family: Copperplate; sans-serif;
-font-weight: normal;}
+h1 { font-size:60px;
+font-family:Copperplate; sans-serif;
+font-weight:normal;}
+ {
+    margin:0;
+    padding:0;
+    border:0;
+    font-size:100%;
+    font:inherit;
+    vertical-align:baseline;
+}
