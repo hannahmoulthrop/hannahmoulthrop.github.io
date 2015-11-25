@@ -13,13 +13,13 @@ div {
 font-family:Copperplate; sans-serif;
 font-weight:normal;
  margin:0;
- margin-left: 40%;
   padding:0;
 border:0;
 font-size:100%;
 font:inherit;
    vertical-align:baseline;
    text-align:center;
+   width:100%;
 }
 h1, h3, h4, h5, p {
     margin-bottom:5px;
