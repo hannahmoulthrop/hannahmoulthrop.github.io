@@ -88,14 +88,24 @@ li:hover {
 
 .resfill {
     text-align: left;
-    width: 65%;
+    width: 50%;
     display: inline-block;
-    margin-left: 5%;
+    margin-left: 15%;
 }
+
+.sections {text-align: left;
+          width: 70%;
+          margin-left: 10%;
+          display: inline-block;
+            }
+
 element.style {
     margin-bottom: 60px;
 }
 
 element.style {
 }
+
+.content {text-align:left;
+          margin-left: 20%;}
 
