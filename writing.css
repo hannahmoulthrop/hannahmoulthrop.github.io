@@ -10,7 +10,7 @@ div {
 }
 
 .name { font-size:60px;
-font-family:Copperplate; sans-serif;
+font-family:Copperplate, serif;
 font-weight:normal;
  margin:0;
   padding:0;
