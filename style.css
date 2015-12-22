@@ -13,6 +13,7 @@ img  {height: 500px;
     }
 p.blocktext { text-align: center;
               width:100%;
+              line-height: 90%;
                }
 
 #navbar {
