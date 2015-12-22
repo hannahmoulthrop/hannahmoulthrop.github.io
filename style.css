@@ -11,7 +11,7 @@ font-weight: normal;}
 img  {height: 500px;
       width: 500px;
     }
-p.blocktext { text-align: left;
+p.blocktext { text-align: center;
               width: 50%;
               display: inline-block;
               margin-left: 15%;
