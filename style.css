@@ -11,9 +11,10 @@ font-weight: normal;}
 img  {height: 500px;
       width: 500px;
     }
-p.blocktext { 
-              position: absolute;
-              top: auto;
+p.blocktext { text-align: left;
+              width: 50%;
+              display: inline-block;
+              margin-left: 15%
                }
 
 #navbar {
