@@ -12,9 +12,8 @@ img  {height: 500px;
       width: 500px;
     }
 p.blocktext { 
-              line-height: 2
-              margin-left: 15%;
-              margin-right: 15%;
+              position: absolute;
+              top: auto;
                }
 
 #navbar {
