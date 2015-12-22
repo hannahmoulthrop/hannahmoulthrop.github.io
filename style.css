@@ -11,10 +11,10 @@ font-weight: normal;}
 img  {height: 500px;
       width: 500px;
     }
-p.blocktext { text-align: center;
+p.blocktext { text-align: left;
               width: 50%;
               display: inline-block;
-              margin-left: 15%;
+              margin-left: 50px;
               line-height: 2;
                }
 
