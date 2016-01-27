@@ -8,7 +8,7 @@ h1 { font-size: 60px;
 font-family: Copperplate; sans-serif;
 font-weight: normal;}
 
-h5 {line-height: 1.0;
+h5,h3,ul {line-height: 1.0;
   margin:0;
 }
  
