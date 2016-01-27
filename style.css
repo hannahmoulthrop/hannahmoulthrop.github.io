@@ -8,7 +8,7 @@ h1 { font-size: 60px;
 font-family: Copperplate; sans-serif;
 font-weight: normal;}
 
-h5 {padding: 0px;}
+h5 {line-height: none;}
  
 img  {height: 500px;
       width: 500px;
