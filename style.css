@@ -96,19 +96,22 @@ li:hover {
 
 .resfill {
     text-align: left;
-    width: 50%;
-    display: inline-block;
-    margin-left: 15%;
+    width: 60%;
+    float: left;
+    margin-top: 10px;
 }
  
- .resp { 
-   
+ .resume { 
+   width: 80%;
+   margin: 0 auto;
+   padding-top: 2em;
  }
  
 .sections {text-align: left;
-          width: 70%;
+          width: 20%;
           margin-left: 10%;
-          display: inline-block;
+          float: left;
+          margin-top: 10px;
             }
 
 element.style {
@@ -125,4 +128,8 @@ element.style {
      color: black;
      text-decoration: none;
 }
-     
+
+.paragraph {
+  margin-bottom: 10px;
+  text-align: left;
+}
