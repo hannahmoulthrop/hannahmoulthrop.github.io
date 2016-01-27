@@ -100,7 +100,11 @@ li:hover {
     display: inline-block;
     margin-left: 15%;
 }
-
+ 
+ .resp { 
+   margin-bottom: 2;
+ }
+ 
 .sections {text-align: left;
           width: 70%;
           margin-left: 10%;
